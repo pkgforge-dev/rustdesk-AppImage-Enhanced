@@ -1,11 +1,11 @@
-# rustdesk-AppImage-Enhanced 🐧
+# RustDesk-AppImage-Enhanced 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/rustdesk-AppImage-Enhanced/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/rustdesk-AppImage-Enhanced/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/rustdesk-AppImage-Enhanced/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/rustdesk-AppImage-Enhanced/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/RustDesk-AppImage-Enhanced/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/RustDesk-AppImage-Enhanced/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/RustDesk-AppImage-Enhanced/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/RustDesk-AppImage-Enhanced/releases/latest)
 
 Improved AppImage of rustdesk **independent of the host libc** which makes able to work on very very old distros as well as musl-libc distros like alpine linux.
 
-* [Latest Stable Release](https://github.com/pkgforge-dev/rustdesk-AppImage-Enhanced/releases/latest)
+* [Latest Stable Release](https://github.com/pkgforge-dev/RustDesk-AppImage-Enhanced/releases/latest)
 
 ---
 
